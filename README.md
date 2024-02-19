@@ -1,2 +1,1 @@
-# typescript-code-for-fun
-Typescript code for fun :)
+# javascript-code-for-fun
